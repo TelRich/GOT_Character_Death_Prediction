@@ -2,6 +2,9 @@
 
 [ML Notebook](https://nbviewer.org/github/TelRich/GOT_Character_Death_Prediction/blob/main/GOT-PT3_ML.ipynb?flush_cache=True)
 
+![](2022-12-15-14-05-51.png)
+
+
 ## Summary
 1. There were 38 battles fought within 3-year context of our data
 2. Characters without alleigiance to any house has the highest death count, followed by the nights watch.
