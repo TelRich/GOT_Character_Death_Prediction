@@ -1,6 +1,8 @@
-[View Notebook](https://nbviewer.org/github/TelRich/GOT_Character_Death_Prediction/blob/main/got_prjt_v5.ipynb?flush_cache=True)
+[Full Project](https://nbviewer.org/github/TelRich/GOT_Character_Death_Prediction/blob/main/got_prjt_v5.ipynb?flush_cache=True)
 
-[ML Notebook](https://nbviewer.org/github/TelRich/GOT_Character_Death_Prediction/blob/main/GOT-PT3_ML.ipynb?flush_cache=True)
+[Data Cleaning and Feature Engineering](https://nbviewer.org/github/TelRich/GOT_Character_Death_Prediction/blob/main/GOT-PT2_Data_Cleaning-Feat_Eng.ipynb?flush_cache=True)
+
+[Machine Learning](https://nbviewer.org/github/TelRich/GOT_Character_Death_Prediction/blob/main/GOT-PT3_ML.ipynb?flush_cache=True)
 
 ![](2022-12-15-14-05-51.png)
 
